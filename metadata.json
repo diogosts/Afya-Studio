@@ -1,0 +1,6 @@
+{
+  "name": "Afya Pato Branco — Estúdio de Narração",
+  "description": "Estúdio de narração institucional com voz masculina em alta fidelidade para o vídeo institucional da Afya Pato Branco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
